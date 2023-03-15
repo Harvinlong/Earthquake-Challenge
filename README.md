@@ -1,4 +1,7 @@
 # Mapping Earthquake
+## Purpose of this project:
+The purpose of this project was to create an interactive earthquake map that displays earthquake data and tectonic plate data. This was achieved by using JavaScript, D3.js, Leaflet, Mapbox, and GeoJSON files. The project aimed to incorporate major earthquake data from the GeoJSON Summary Feed for M4.5+ Earthquakes for the past 7 days and add it to the existing earthquake map.
+
 ## Add Tectonic Plate Data
 First, I added a second layer group variable for the tectonic plate data, and added a reference to the tectonic plate data to the overlay object to incorporate the tectonic plate data into the earthquake map.
 
